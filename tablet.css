@@ -1,0 +1,19 @@
+.body-cards-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 930px;
+    margin: 0 auto;
+    gap: 30px;
+}
+
+
+
+.plans-container--slider{
+    justify-content: center;
+}
+
+.main-currency-table, .main-commission-table {
+    display: inline-block;
+    width: 49%;
+}
